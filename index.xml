@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lerni Esperanton sen uzi alian lingvon ol Esperanto</title>
+    <link>http://esperanto-kurso.net/index.xml</link>
+    <description>Recent content on lerni Esperanton sen uzi alian lingvon ol Esperanto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2016 Joop Kiefte kaj aliaj - enhavo havebla sub AGPL, vidu en GitHub</copyright>
+    <atom:link href="http://esperanto-kurso.net/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
