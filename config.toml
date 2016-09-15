@@ -1,0 +1,25 @@
+theme="amp"
+baseurl = "http://esperanto-kurso.net"
+title = "lerni Esperanton sen uzi alian lingvon ol Esperanto"
+paginate = 10
+copyright = "© 2016 Joop Kiefte kaj aliaj - enhavo havebla sub AGPL, vidu en GitHub"
+canonifyurls = true
+googleAnalytics = "Your Tracking Id" # optional
+
+# optional
+[[menu.header]]
+  name = "GitHub"
+  weight = 1
+  url = "https://github.com/esperanto/esperanto-kurso.net"
+[[menu.header]]
+  name = "Pri ĉi tiu retejo"
+  weight = 4
+  url = "/pri/"
+
+# # optional
+# [social]
+#   twitter = "Your Twitter Name"
+#   github = "esperanto/esperanto-kurso.net"
+#   facebook = "Your facebook Name"
+#   gplus = "Your Google+ profile name"
+#   linkedin = "Your LinkedIn Name"
