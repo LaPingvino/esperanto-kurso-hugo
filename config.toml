@@ -1,5 +1,5 @@
 theme="amp"
-baseurl = "http://esperanto-kurso.net"
+baseurl = "https://lapingvino.github.io/esperanto-kurso-hugo"
 title = "lerni Esperanton sen uzi alian lingvon ol Esperanto"
 paginate = 10
 copyright = "© 2016 Joop Kiefte kaj aliaj - enhavo havebla sub AGPL, vidu en GitHub"
