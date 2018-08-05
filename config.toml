@@ -1,25 +1,15 @@
-theme="amp"
 baseurl = "https://lapingvino.github.io/esperanto-kurso-hugo"
-title = "lerni Esperanton sen uzi alian lingvon ol Esperanto"
-paginate = 10
-copyright = "© 2016 Joop Kiefte kaj aliaj - enhavo havebla sub AGPL, vidu en GitHub"
 canonifyurls = true
-googleAnalytics = "Your Tracking Id" # optional
-
-# optional
+copyright = "© 2016 Joop Kiefte kaj aliaj - enhavo havebla sub AGPL, vidu en GitHub"
+googleAnalytics = "Your Tracking Id"
+paginate = 10
+theme = "amp"
+title = "lerni Esperanton sen uzi alian lingvon ol Esperanto"
 [[menu.header]]
-  name = "GitHub"
-  weight = 1
-  url = "https://github.com/esperanto/esperanto-kurso.net"
+name = "Pri ĉi tiu retejo"
+url = "/pri/"
+weight = 2
 [[menu.header]]
-  name = "Pri ĉi tiu retejo"
-  weight = 4
-  url = "/pri/"
-
-# # optional
-# [social]
-#   twitter = "Your Twitter Name"
-#   github = "esperanto/esperanto-kurso.net"
-#   facebook = "Your facebook Name"
-#   gplus = "Your Google+ profile name"
-#   linkedin = "Your LinkedIn Name"
+name = "GitHub"
+url = "https://github.com/esperanto/esperanto-kurso.net"
+weight = 1
